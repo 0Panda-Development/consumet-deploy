@@ -1,0 +1,2 @@
+# consumet-deploy
+wsp
